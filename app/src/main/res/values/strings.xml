@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FunboxStore</string>
+    <string name="btn_store_front">Store-Front</string>
+    <string name="btn_back_end">Back-End</string>
+    <string name="btn_buy_product">Купить</string>
+    <string name="mi_add_product">Добавить</string>
+    <string name="mi_save_product">Сохранить</string>
+    <string name="units">шт.</string>
+    <string name="rubles">руб.</string>
+    <string name="product_name">Название</string>
+    <string name="product_cost">Цена</string>
+    <string name="product_num">Количество</string>
+    <string name="success_update_product">Информация о продукте успешно обновлена.</string>
+    <string name="success_add_product">Продукт успешно добавлен.</string>
+    <string name="success_delete_product">Продукт успешно удален.</string>
+    <string name="success_buy_product">Спасибо за покупку. Ждем вас снова."</string>
+    <string name="error_empty_field">Поле не должно быть пустым.</string>
+    <string name="error_update_product">Не удалось обновить информацию о продукте.</string>
+    <string name="error_add_product">Не удалось добавить новый продукт.</string>
+    <string name="error_delete_product">не удалось удалить продукт.</string>
+    <string name="error_buy_product">Не удалось купить товар. Попробуй позже."</string>
+</resources>

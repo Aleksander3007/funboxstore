@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Начальные значения для БД -->
+    <string-array name="product_names">
+        <item>Apple iPod touch 5 32Gb</item>
+        <item>Samsung Galaxy S Duos S7562</item>
+        <item>Canon EOS 600D Kit</item>
+        <item>Samsung Galaxy Tab 2 10.1 P5100 16Gb</item>
+        <item>PocketBook Touch</item>
+        <item>Samsung Galaxy Note II 16Gb</item>
+        <item>Nikon D3100 Kit</item>
+        <item>Canon EOS 1100D Kit</item>
+        <item>Sony Xperia acro S</item>
+        <item>Lenovo G580</item>
+    </string-array>
+
+    <string-array name="product_costs">
+        <item>8888</item>
+        <item>7230</item>
+        <item>15659</item>
+        <item>13290</item>
+        <item>5197</item>
+        <item>17049.50</item>
+        <item>12190</item>
+        <item>10985</item>
+        <item>11800.99</item>
+        <item>8922</item>
+    </string-array>
+
+    <integer-array name="product_nums">
+        <item>5</item>
+        <item>2</item>
+        <item>4</item>
+        <item>9</item>
+        <item>2</item>
+        <item>2</item>
+        <item>4</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+
+</resources>
